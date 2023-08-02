@@ -4,8 +4,8 @@ import ColorBox from './ColorBox';
 const colorList = ["yellow", "voilet", "lightyellow", "lightblue", "pink", "white", "burlywood", "tomato", "lightgrey", "coral"];
 
 const snake= {
-    // 4:  {text: "SL1", color: "red"},
-    // 99: {text: "SH1", color: "red", lowerBound: 4},
+    4:  {text: "SL1", color: "red"},
+    99: {text: "SH1", color: "red", lowerBound: 4},
     9:  {text: "SL2", color: "red"},
     39: {text: "SH2", color: "red", lowerBound: 9},
     21: {text: "SL3", color: "red"},
