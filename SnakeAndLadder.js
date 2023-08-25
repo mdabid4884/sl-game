@@ -6,6 +6,8 @@ const colorList = ["yellow", "voilet", "lightyellow", "lightblue", "pink", "whit
 const snake= {
     4:  {text: "SL1", color: "red"},
     99: {text: "SH1", color: "red", lowerBound: 4},
+    14:  {text: "SL1", color: "red"},
+    50: {text: "SH1", color: "red", lowerBound: 14},
     9:  {text: "SL2", color: "red"},
     39: {text: "SH2", color: "red", lowerBound: 9},
     21: {text: "SL3", color: "red"},
