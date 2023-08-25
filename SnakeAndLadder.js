@@ -24,6 +24,8 @@ const ladders= {
     77: {text: "L3E", color: "green"},
     12: {text: "L4S", color: "green", upperBound: 96},
     96: {text: "L4E", color: "green"},
+    11: {text: "L4S", color: "green", upperBound: 56},
+    56: {text: "L4E", color: "green"},
 };
 // console.log(ladders);
 
